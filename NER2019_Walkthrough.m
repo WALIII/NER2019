@@ -66,10 +66,7 @@ CaBMI_Spatiotemporal(ROIhits, ROI,ROIb)
 
 
 
-
-
 % Plot Residuals:
-
 
 
 
